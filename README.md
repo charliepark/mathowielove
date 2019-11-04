@@ -1,5 +1,7 @@
 # mathowielove
 
+If you're just interested in seeing the archive, this GitHub project page is the best spot at the moment: http://charliepark.org/mathowielove/
+
 Back in 2009, internet buddy Matt Haughey shared that he had been diagnosed with a tumor. Anil Dash suggested that folks write tweets about what Matt meant to them. Over a thousand did.
 
 At the time, Twitter's search wasn't great, and was also only good for the previous 12 months. Over time, they started to fade. Matt wrote "Sad the original #mathowielove tweets are gone from Twitter Search. @ev you're kinda building a cultural artifact here, db issues be damned".
