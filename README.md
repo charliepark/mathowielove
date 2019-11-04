@@ -1,6 +1,6 @@
 # mathowielove
 
-If you're just interested in seeing the archive, this GitHub project page is the best spot at the moment: http://charliepark.org/mathowielove/
+If you're just interested in seeing the archive, this GitHub project page is the best spot at the moment: https://charliepark.github.com/mathowielove/
 
 Back in 2009, internet buddy Matt Haughey shared that he had been diagnosed with a tumor. Anil Dash suggested that folks write tweets about what Matt meant to them. Over a thousand did.
 
